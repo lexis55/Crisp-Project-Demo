@@ -1,4 +1,6 @@
 # Crisp-Project-Demo
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/a657e7b6-7c80-4b36-91bf-0159bfddcad7.svg?orgId=233256683269)](https://app.soluble.cloud/repos/details/github.com/lexis55/crisp-project-demo?orgId=233256683269)  
 ## What this does?
 This repo along with https://github.com/lexis55/Crisp-Project-Demo.git creates a Jenkins pipeline with GitOps to deploy code into a Kubernetes cluster. CI part is done via Jenkins and CD part via ArgoCD (GitOps).
 
